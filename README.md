@@ -29,4 +29,4 @@ Poniżej znajdują się zrzuty ekranu potwierdzające widoczność zasobów w po
 
 | Tokeny ERC-20 | Kolekcja NFT | Drugi portfel (Odbiorca transakcji) |
 | :---: | :---: | :---: |
-| ![Tokeny](wallet_token.png) | ![NFT](wallet_nft.png) | ![Odbiorca](wallet_second.png) |
+| ![Tokeny](images/wallet_token.png) | ![NFT](images/wallet_nft.png) | ![Odbiorca](images/wallet_second.png) |
