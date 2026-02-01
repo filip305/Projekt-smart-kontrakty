@@ -22,6 +22,6 @@ Repozytorium zawiera wdrożenie dwóch kontraktów na sieć testową **Sepolia**
 Tokeny oraz NFT są widoczne w portfelu MetaMask pod adresem `0xf59d1c0cc3d72c208c3fa671ce562c5066d29d6a` na sieci Sepolia. Pierwszy token NFT (ID 0) został pomyślnie wybity funkcją `safeMint`.
 
 ## Informacje dodatkowe
-Wszystkie operacje zostały wykonane z portfela o adresie: 0xf59d1c0cc3d72c208c3fa671ce562c5066d29d6a.
-Tokeny PTK oraz MNFT są poprawnie widoczne w MetaMask na sieci Sepolia.
-Historia prac nad projektem jest dostępna w zakładce Commits (git log).
+* Wszystkie operacje zostały wykonane z portfela o adresie: 0xf59d1c0cc3d72c208c3fa671ce562c5066d29d6a.
+* Tokeny PTK oraz MNFT są poprawnie widoczne w MetaMask na sieci Sepolia.
+* Historia prac nad projektem jest dostępna w zakładce Commits (git log).
