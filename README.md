@@ -27,6 +27,6 @@ Celem projektu było przygotowanie i wdrożenie dwóch smart kontraktów w stand
 ### 5. Galeria - Potwierdzenie w MetaMask
 Poniżej znajdują się zrzuty ekranu potwierdzające widoczność zasobów w portfelu oraz poprawność wykonanych transakcji:
 
-| Tokeny ERC-20 | Kolekcja NFT | Drugi portfel (Odbiorca) |
+| Tokeny ERC-20 | Kolekcja NFT | Drugi portfel (Odbiorca transakcji) |
 | :---: | :---: | :---: |
 | ![Tokeny](wallet_token.png) | ![NFT](wallet_nft.png) | ![Odbiorca](wallet_second.png) |
